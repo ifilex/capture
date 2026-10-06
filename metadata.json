@@ -1,0 +1,10 @@
+{
+  "name": "Capture The Flag '95",
+  "description": "Retro pixel Capture The Flag 1994/95 multiplayer shooter with dedicated server rooms, ranked matchmaking, map editor, team voice chat, cross-progression, touch and controller support, and co-op mode.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
